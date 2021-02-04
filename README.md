@@ -7,9 +7,9 @@ Práctica configuración de servidores y despliegue de aplicaciones
 - http://nodepop.rbsdevops.com
 
 ```
-La aplicación node se ha desplegado sobre ##nginx## como proxy inverso y servidor de estáticos
+La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y servidor de estáticos
 
-##Supervisor## gestiona dos procesos:
+**Supervisor** gestiona dos procesos:
 
 - nodepop: La propia aplicación node
 
