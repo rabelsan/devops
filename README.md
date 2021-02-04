@@ -1,12 +1,19 @@
 # devops
 Práctica configuración de servidores y despliegue de aplicaciones
-## Local Usage
+## Ejercicio 1: Backend con Node
 
-To run the todo app locally, just clone the repo and then run:
+URL```
+- http://nodepop.rbsdevops.com
 ```
-npm install
-```
-The project can be viewed on a development server at localhost:3000 by running:
+Se ha desplagado la aplicación node sobre nginx como proxy inverso y servidor de estático
+
+Supervisor gestiona dos procesos:
+## nodepop La propia aplicación node
+
+## thumbService Servicio que atiende peticiones para reducir el tamaño de imágenes
+
+## API nodepop
+Mediante supervisorThe project can be viewed on a development server at localhost:3000 by running:
 ```
 npm start
 ```
