@@ -14,4 +14,4 @@ npm start
 
 ### Resources:
 
-- https://github.com/rabelsan/devops/blob/main/apiDoc/index.html
+- https://htmlpreview.github.io/?https://github.com/rabelsan/devops/blob/main/apiDoc/index.html
