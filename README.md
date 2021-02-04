@@ -18,10 +18,7 @@ La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y se
 
 **API** nodepop
 
-Mediante supervisorThe project can be viewed on a development server at localhost:3000 by running:
-```
-npm start
-```
+- http://nodepop.rbsdevops.com/apiDoc/index.html
 
 ## Ejercicio 2: Backend con React-redux
 
