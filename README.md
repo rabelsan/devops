@@ -1,6 +1,6 @@
 # devops
 Práctica configuración de servidores y despliegue de aplicaciones
-## Local Useage
+## Local Usage
 
 To run the todo app locally, just clone the repo and then run:
 ```
@@ -14,4 +14,4 @@ npm start
 
 ### Resources:
 
-- https://redux.js.org/basics
+- https://github.com/rabelsan/devops/blob/main/apiDoc/index.html
