@@ -24,4 +24,4 @@ La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y se
 
 ### Resources:
 
-- https://htmlpreview.github.io/?https://github.com/rabelsan/devops/blob/main/apiDoc/index.html
+
