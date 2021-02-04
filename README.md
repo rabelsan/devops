@@ -2,12 +2,12 @@
 Práctica configuración de servidores y despliegue de aplicaciones
 ## Ejercicio 1: Backend con Node
 
-URL
-```
+###URL###
+
 - http://nodepop.rbsdevops.com
+
 ```
-```
-Se ha desplagado la aplicación node sobre ##nginx## como proxy inverso y servidor de estáticos
+La aplicación node se ha desplegado sobre ##nginx## como proxy inverso y servidor de estáticos
 
 ##Supervisor## gestiona dos procesos:
 
