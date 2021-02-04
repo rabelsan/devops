@@ -2,11 +2,13 @@
 Práctica configuración de servidores y despliegue de aplicaciones
 ## Ejercicio 1: Backend con Node
 
-###URL###
+```
+URL
 
 - http://nodepop.rbsdevops.com
 
 ```
+
 La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y servidor de estáticos
 
 **Supervisor** gestiona dos procesos:
@@ -14,7 +16,7 @@ La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y se
 - nodepop: La propia aplicación node
 
 - thumbService: Servicio que atiende peticiones para reducir el tamaño de imágenes
-```
+
 ## API nodepop
 Mediante supervisorThe project can be viewed on a development server at localhost:3000 by running:
 ```
