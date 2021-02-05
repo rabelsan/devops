@@ -24,6 +24,17 @@ La base de datos utilizada es **mongo** y, por seguridad, requiere autenticació
 
 ## Ejercicio 2: Backend con React-redux
 
+**URL**
+
+http://react.rbsdevops.com (para acceder a la demo se puede utilizar el email: user@example.com / pwd: 1234)
+
+Para desplegar la aplicación **react** se han implementado un segundo backend (el api es diferente al anterior), y el propio frontend
+
+El frontend está desplegado sobre **nginx**
+
+El backend, se maneja desde **supervisor** para asegurar que siempre esté operativo
+
+Igualmente, la base de datos es **mongo** y también requiere autenticaión
 ## Resources:
 
 - https://aws.amazon.com/es/
