@@ -22,7 +22,7 @@ La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y se
 
 ## Ejercicio 2: Backend con React-redux
 
-### Resources:
+## Resources:
 
 - https://aws.amazon.com/es/
 - https://www.nginx.com/blog/websocket-nginx/
