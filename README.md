@@ -24,4 +24,10 @@ La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y se
 
 ### Resources:
 
+- https://aws.amazon.com/es/
+- https://www.nginx.com/blog/websocket-nginx/
+- http://supervisord.org/introduction.html
+- https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+- https://letsencrypt.org/
+- https://certbot.eff.org/
 
