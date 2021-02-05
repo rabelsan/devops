@@ -16,9 +16,8 @@ La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y se
 
 - thumbService: Servicio que atiende peticiones para reducir el tamaño de imágenes
 
-```
 La base de datos utilizada es **mongo** y, por seguridad, requiere autenticación (authorization: enabled)
-```
+
 **API** nodepop
 
 - http://nodepop.rbsdevops.com/apiDoc/index.html
