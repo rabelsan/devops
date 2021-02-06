@@ -18,6 +18,8 @@ La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y se
 
 La base de datos utilizada es **mongo** y, por seguridad, requiere autenticación (authorization: enabled)
 
+También se ha implementado el protocolo https medieante **lets encrypt** y **certbot**
+
 **API** nodepop
 
 - https://nodepop.rbsdevops.com/apiDoc/index.html
@@ -34,7 +36,9 @@ El frontend está desplegado sobre **nginx**
 
 El backend, se maneja desde **supervisor** para asegurar que siempre esté operativo
 
-Igualmente, la base de datos es **mongo** y también requiere autenticaión
+Igualmente, la base de datos es **mongo** y también requiere autenticación
+
+Los estáticos de las imágenes los sirve **nginx** en lugar de **express**
 ## Resources:
 
 - https://aws.amazon.com/es/
