@@ -30,7 +30,7 @@ También se ha implementado el protocolo https medieante **lets encrypt** y **ce
 
 http://3.141.69.22 (o también http://rbsdevops.com). Para acceder a la demo se puede utilizar el email: user@example.com / pwd: 1234.
 
-Para desplegar la aplicación **react** se han implementado un segundo backend (el api es diferente al anterior), y el propio frontend
+En el despliegue de la aplicación **react** se ha implementado un segundo backend (el api es diferente al anterior), y el propio frontend
 
 El frontend está desplegado sobre **nginx**
 
