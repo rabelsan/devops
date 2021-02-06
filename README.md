@@ -5,7 +5,7 @@ Práctica configuración de servidores y despliegue de aplicaciones
 
 **URL**
 
-- http://nodepop.rbsdevops.com
+- https://nodepop.rbsdevops.com
 
 
 La aplicación **node** se ha desplegado sobre **nginx** como proxy inverso y servidor de estáticos
@@ -20,7 +20,7 @@ La base de datos utilizada es **mongo** y, por seguridad, requiere autenticació
 
 **API** nodepop
 
-- http://nodepop.rbsdevops.com/apiDoc/index.html
+- https://nodepop.rbsdevops.com/apiDoc/index.html
 
 ## Ejercicio 2: Backend con React-redux
 
